@@ -46,8 +46,9 @@ SpringBoot Microservices
     9. Implemented Spring Security & filters : (Taken out due to some filter issues)
     10.Implemented Forgot Password functionality which allows the user to verify email and sends an OTP to the same which on                    confirmation allows password change.
     11.Implemented Http Interceptor for session management
-    12. Logging to send exception details to admin
-    13. Maven : POM.xml file understanding
+    12.Logging to send exception details to admin
+    13.Maven : POM.xml file understanding
+    14.Implemented email link activation for new registrations
     
 
  
