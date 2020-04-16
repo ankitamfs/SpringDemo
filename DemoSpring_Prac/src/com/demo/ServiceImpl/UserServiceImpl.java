@@ -265,6 +265,7 @@ public class UserServiceImpl implements UserService{
 			} catch(Exception exe) {
 				log.info(exe.getMessage()+ new Date()+ ExceptionUtils.getStackTrace(exe));
 			}
+			System.out.println(result);
 			return result;	
 		}
 		
